@@ -15,6 +15,6 @@
         android:title="User" />
     <item
         android:id="@+id/profileFragment"
-        android:icon="@drawable/ic_baseline_profile_24"
+        android:icon="@drawable/ic_baseline_settings_24"
         android:title="Profile" />
 </menu>
